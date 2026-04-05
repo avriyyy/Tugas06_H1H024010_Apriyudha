@@ -17,7 +17,7 @@
 
 # Percobaan Pendahuluan
 
-<p>Menampilkan "Hello World" menggunakan Serial Monitor. Menampilkan "Hello World" di Serial Monitor Arduino dilakukan dengan menginisialisasi komunikasi serial menggunakan `Serial.begin(9600)` di setup() dan mencetak teks dengan Serial.println("Hello World") di loop() atau setup()</p>
+<p>Menampilkan "Hello World" menggunakan Serial Monitor. Menampilkan "Hello World" di Serial Monitor Arduino dilakukan dengan menginisialisasi komunikasi serial menggunakan Serial.begin(9600) di setup() dan mencetak teks dengan Serial.println("Hello World") di loop() atau setup()</p>
 
 ```cpp
 const int ledPin = 12;
