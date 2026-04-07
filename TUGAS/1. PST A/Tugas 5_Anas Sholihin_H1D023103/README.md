@@ -48,7 +48,8 @@ Dengan simulasi ini, Anda dapat memverifikasi bahwa kode dan rangkaian bekerja s
 [Buka Project](https://www.tinkercad.com/things/kGGhdDv81sh/editel?returnTo=%2Fdashboard&sharecode=M8K9Lex2uwgGW6lMdj1mVZnfVzHzCxQQGxFDCCN6pZQ)
 
 Video:
-![Video Hasil Simulasi](https://github.com/user-attachments/assets/9e2538d7-7ac1-410f-a7ee-67b59cb8733f)
+
+https://github.com/user-attachments/assets/9e2538d7-7ac1-410f-a7ee-67b59cb8733f
 
 ## Penjelasan Kode
 
