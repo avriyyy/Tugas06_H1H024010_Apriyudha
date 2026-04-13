@@ -132,7 +132,7 @@ void loop() {
   <source src="Tugas06_H1H024010_Apriyudha/Dokumentasi/PrintI2C.mp4" type="video/mp4">
 </video>
 
-📹 [Video Dokumentasi PrintI2C](Tugas06_H1H024010_Apriyudha/Dokumentasi/PrintI2C.mp4)
+ [Video Dokumentasi PrintI2C](Tugas06_H1H024010_Apriyudha/Dokumentasi/PrintI2C.mp4)
 
 Thinkercad: https://www.tinkercad.com/things/gfuPMpA2tJ5/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=tZw8EN3v_A9JJjYOf_cTYIt-ROdLiHFk8ok8MvoHWqs
 
