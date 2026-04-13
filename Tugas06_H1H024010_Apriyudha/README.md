@@ -128,11 +128,7 @@ void loop() {
 
 ### PrintI2C.ino - Teks Statis
 
-<video width="400" controls>
-  <source src="Tugas06_H1H024010_Apriyudha/Dokumentasi/PrintI2C.mp4" type="video/mp4">
-</video>
-
- [Video Dokumentasi PrintI2C](Tugas06_H1H024010_Apriyudha/Dokumentasi/PrintI2C.mp4)
+https://github.com/user-attachments/assets/f3b5aa6d-5c00-454d-8c08-4330dd4b470f
 
 Thinkercad: https://www.tinkercad.com/things/gfuPMpA2tJ5/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=tZw8EN3v_A9JJjYOf_cTYIt-ROdLiHFk8ok8MvoHWqs
 
@@ -140,11 +136,7 @@ Thinkercad: https://www.tinkercad.com/things/gfuPMpA2tJ5/editel?returnTo=%2Fdash
 
 ### ScrollingTextI2C.ino - Scrolling Text
 
-<video width="400" controls>
-  <source src="Tugas06_H1H024010_Apriyudha/Dokumentasi/ScrollingTextI2C.mp4" type="video/mp4">
-</video>
-
- [Video Dokumentasi ScrollingTextI2C](Tugas06_H1H024010_Apriyudha/Dokumentasi/ScrollingTextI2C.mp4)
+https://github.com/user-attachments/assets/8357008f-1828-4353-845b-427919490a18
 
 Thinkercad: https://www.tinkercad.com/things/lvCcVB6KBxO/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=bBLI6H8hRX6WlN9Yr2DO82-QKa7bZHI1kTaDME5Ufqg
 
