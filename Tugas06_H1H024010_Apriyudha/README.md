@@ -126,13 +126,13 @@ void loop() {
 
 ## 4. Dokumentasi Video
 
-Pastikan file video disimpan dalam folder `videos/` di repository.
-
 ### PrintI2C.ino - Teks Statis
 
 <video width="400" controls>
   <source src="Tugas06_H1H024010_Apriyudha/Dokumentasi/PrintI2C.mp4" type="video/mp4">
 </video>
+
+📹 [Tonton video PrintI2C](Tugas06_H1H024010_Apriyudha/Dokumentasi/PrintI2C.mp4)
 
 Thinkercad: https://www.tinkercad.com/things/gfuPMpA2tJ5/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=tZw8EN3v_A9JJjYOf_cTYIt-ROdLiHFk8ok8MvoHWqs
 
@@ -143,6 +143,8 @@ Thinkercad: https://www.tinkercad.com/things/gfuPMpA2tJ5/editel?returnTo=%2Fdash
 <video width="400" controls>
   <source src="Tugas06_H1H024010_Apriyudha/Dokumentasi/ScrollingTextI2C.mp4" type="video/mp4">
 </video>
+
+📹 [Tonton video PrintI2C](Tugas06_H1H024010_Apriyudha/Dokumentasi/ScrollingTextI2C.mp4)
 
 Thinkercad: https://www.tinkercad.com/things/lvCcVB6KBxO/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=bBLI6H8hRX6WlN9Yr2DO82-QKa7bZHI1kTaDME5Ufqg
 
